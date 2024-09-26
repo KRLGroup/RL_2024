@@ -1,4 +1,4 @@
-# RL_2023
+# RL_2024
 
 Official Repository for the Reinforcement Learning Course at Artificial Intelligence and Robotics (Sapienza University of Rome).
 
