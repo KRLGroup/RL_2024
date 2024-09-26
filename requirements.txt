@@ -1,0 +1,6 @@
+gymnasium==0.29.1
+ipykernel==6.25.2
+matplotlib==3.7.2
+numpy==1.24.4
+pygame==2.5.1
+torch==2.0.1
