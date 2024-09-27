@@ -50,7 +50,7 @@ You can use this fork to experiment, add features, or fix bugs, and later, if yo
 
 |You can fork a repo with this button|An example of how you finalize the forking|
 |:-:|:-:|
-|![alt text](image.png) |![alt text](image.png)|
+|![alt text](./media/location_fork.png) |![alt text](./media/example_fork_creation.png)|
 
 On the other hand, cloning is when you download a copy of a repository (whether it's your own, someone else's, or a fork) onto your local machine so you can work on it offline.
 When you clone a repository, you're copying the entire project, including all files and history, to your computer.
@@ -109,6 +109,9 @@ Now that your changes are on your GitHub fork, you can submit a pull request.
 
 1. Go to your fork on GitHub.
 2. You’ll see a Compare & Pull Request button at the top of your repository (GitHub usually detects that you pushed a new branch). Click that button.
+
+    ![alt text](./media/compare_and_pull.png)
+
 3. Review the changes you’ve made to ensure everything looks correct.
 4. Add a title and description explaining what changes you’ve made and why they are necessary.
 5. Choose the base repository (the original project) and the base branch (usually main) into which you want to merge your changes. Your pull request will compare your changes with that branch.
